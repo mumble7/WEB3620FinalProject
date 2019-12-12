@@ -1,9 +1,9 @@
 ## About Web 3620 Final
 
-run: php artisan serve
+run from project directory: php artisan serve 
 
 
-
+Left the framework below for reference.
 
 
 
